@@ -3,6 +3,8 @@
 # This script is used only by Service Deks Tech Mentors to extract data from text
 # Script is to be used within Powershell ISE with no administrator privileges
 
+# v1.0.3
+
 # FOR USER IDs
 # This is used for fallbacks to easily email a list of users from a global group, format will follow firstName lastName(USERID);firstName lastName(USERID);
 # This script will return all User DIs on seperate lines
